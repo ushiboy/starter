@@ -1,0 +1,19 @@
+{
+  "name": "starter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp dev"
+  },
+  "author": "ushiboy",
+  "license": "MIT",
+  "devDependencies": {
+    "connect": "^3.4.1",
+    "connect-livereload": "^0.5.4",
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-load-plugins": "^1.2.0",
+    "serve-static": "^1.10.2"
+  }
+}
